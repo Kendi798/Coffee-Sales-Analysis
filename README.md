@@ -1,8 +1,13 @@
 # Coffee Sales Analysis Dashboard
+![Alt Text](Coffee Analysis.PNG)
 
 ## Overview
 
 This Excel-based project focuses on analyzing coffee sales data using various Excel functions and features, including VLOOKUP, INDEX and MATCH, pivot tables, and charting. The project involves three main worksheets: "Customers," "Products," and "Orders," which are used to create a comprehensive sales analysis dashboard. The dashboard includes insights such as "Coffee Types and Roasting Types on Weekends and Weekdays," "Coffee Sales per Country," "Top 5 Customers," and "Sales per Year."
+
+## Dashboard Preview
+
+![Coffee Sales Dashboard](https://github.com/Kendi798/Coffee-Sales-Analysis/blob/main/Coffee%20Analysis.PNG)
 
 ## Worksheets and Data Sources
 
